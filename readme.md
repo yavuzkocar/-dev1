@@ -1,0 +1,1 @@
+kodluyoruz insertion sort ödevi
